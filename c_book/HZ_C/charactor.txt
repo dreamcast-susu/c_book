@@ -1,0 +1,1 @@
+1 C  2 B  3 A  4 C  5 C  6 C  7 B  8 D 9 B  10 D  11C  12 D 13 B  14 A 15 C 16 B  17B  18 A  19 D  20 C   21B
